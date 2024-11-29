@@ -49,14 +49,16 @@ export function convertToHeurekaFormat(
 
         const price = sanitizePrice(product['Variant Price']);
 
-        console.log('product', product);
-
         const heurekaProduct: HeurekaProduct = {
           ITEM_ID: variantId,
           PRODUCTNAME: `${product.Title} ${product['Option1 Value']}`.trim(),
           DESCRIPTION: stripHtml(product['Body (HTML)']),
           MANUFACTURER: product.Vendor || 'Unknown',
-          CATEGORYTEXT: 'Parfémy',
+          CATEGORYTEXT: {
+            CATEGORY_ID: 1652,
+            CATEGORY_NAME: 'Parfumy',
+            CATEGORY_FULLNAME: 'Heureka.sk | Kozmetika a parfumy | Parfumy'
+          },
           URL: `${baseUrl}/products/${product.Handle}`,
           IMGURL: product['Image Src'] || '',
           PRICE_VAT: price,

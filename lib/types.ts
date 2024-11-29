@@ -21,7 +21,11 @@ export interface HeurekaProduct {
   PRODUCTNAME: string;
   DESCRIPTION: string;
   MANUFACTURER: string;
-  CATEGORYTEXT: string;
+  CATEGORYTEXT: {
+    CATEGORY_ID: number;
+    CATEGORY_NAME: string;
+    CATEGORY_FULLNAME: string;
+  };
   URL: string;
   IMGURL: string;
   PRICE_VAT: string;
