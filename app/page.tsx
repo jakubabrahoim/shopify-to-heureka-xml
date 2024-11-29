@@ -82,12 +82,12 @@ export default function Home() {
                                         Download XML
                                     </button>
                                 </div>
-                                <p className='text-sm text-gray-500'>
+                                {/* <p className='text-sm text-gray-500'>
                                     Your XML feed is available at:{' '}
                                     <code className='text-sm bg-gray-100 px-2 py-1 rounded'>
                                         {xmlUrl}
                                     </code>
-                                </p>
+                                </p> */}
                             </div>
                         )}
                     </div>
