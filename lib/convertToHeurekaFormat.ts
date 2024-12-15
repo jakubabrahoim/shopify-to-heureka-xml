@@ -54,11 +54,12 @@ export function convertToHeurekaFormat(
           PRODUCTNAME: `${product.Title} ${product['Option1 Value']}`.trim(),
           DESCRIPTION: stripHtml(product['Body (HTML)']),
           MANUFACTURER: product.Vendor || 'Unknown',
-          CATEGORYTEXT: {
-            CATEGORY_ID: 1652,
-            CATEGORY_NAME: 'Parfumy',
-            CATEGORY_FULLNAME: 'Heureka.sk | Kozmetika a parfumy | Parfumy'
-          },
+          // CATEGORYTEXT: {
+          //   CATEGORY_ID: 1652,
+          //   CATEGORY_NAME: 'Parfumy',
+          //   CATEGORY_FULLNAME: 'Heureka.sk | Kozmetika a parfumy | Parfumy'
+          // },
+          CATEGORYTEXT: "Heureka.sk | Kozmetika a parfumy | Parfumy",
           URL: `${baseUrl}/products/${product.Handle}`,
           IMGURL: product['Image Src'] || '',
           PRICE_VAT: price,

@@ -28,11 +28,7 @@ function generateXML(products: HeurekaProduct[]): string {
       <DESCRIPTION>${escapeXml(product.DESCRIPTION)}</DESCRIPTION>
       <MANUFACTURER>${escapeXml(product.MANUFACTURER)}</MANUFACTURER>
       <CATEGORYTEXT>
-      <CATEGORY>
-        <CATEGORY_ID>${product.CATEGORYTEXT.CATEGORY_ID}</CATEGORY_ID>
-        <CATEGORY_NAME>${product.CATEGORYTEXT.CATEGORY_NAME}</CATEGORY_NAME>
-        <CATEGORY_FULLNAME>${product.CATEGORYTEXT.CATEGORY_FULLNAME}</CATEGORY_FULLNAME>
-      </CATEGORY>
+        ${escapeXml(product.CATEGORYTEXT)}
       </CATEGORYTEXT>
       <URL>${escapeXml(product.URL)}</URL>
       <IMGURL>${escapeXml(product.IMGURL)}</IMGURL>
