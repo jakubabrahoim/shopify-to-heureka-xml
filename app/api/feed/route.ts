@@ -33,7 +33,7 @@ function generateXML(products: HeurekaProduct[]): string {
       <URL>${escapeXml(product.URL)}</URL>
       <IMGURL>${escapeXml(product.IMGURL)}</IMGURL>
       <PRICE_VAT>${escapeXml(product.PRICE_VAT)}</PRICE_VAT>
-      <DELIVERY_DATE>${product.DELIVERY_DATE}</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       ${Object.entries(product.DELIVERY).map(([key, value]) => `
         <DELIVERY>
           <DELIVERY_ID>${escapeXml(value.DELIVERY_ID)}</DELIVERY_ID>

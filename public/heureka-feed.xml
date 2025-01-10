@@ -2,6 +2,166 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
+      <ITEM_ID>aromatix-x-french-avenue-royal-taboo</ITEM_ID>
+      <PRODUCTNAME>Aromatix x French Avenue Royal Taboo 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm, bezoin, škorica, jantár Srdce - tabak, kašmírové drevo, jasmín, heliotrop Základ - tonka fazuľa, pačuli, vanilka, suché drevo</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/aromatix-x-french-avenue-royal-taboo</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/royaltaboo_1.png?v=1736514283</IMGURL>
+      <PRICE_VAT>2.80</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>aromatix-x-french-avenue-royal-taboo</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>aromatix-x-french-avenue-carnal-desire</ITEM_ID>
+      <PRODUCTNAME>Aromatix x French Avenue Carnal Desire 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - malina, škorica, bergamot Srdce - orris, cukrová vata, ruža Základ - koža, oud (agárové drevo), vanilka, céder, pačuli</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/aromatix-x-french-avenue-carnal-desire</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/carnaldesire_1.png?v=1736513813</IMGURL>
+      <PRICE_VAT>2.80</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>aromatix-x-french-avenue-carnal-desire</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>french-avenue-royal-blend</ITEM_ID>
+      <PRODUCTNAME>French Avenue Royal Blend 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Angels&apos; Share . Koncentrácia Extrait de Parfum. Popis vône: Hlava - koňak, škorica, slivka Srdce - dúhovka, myrha Základ - vanilka, tonka fazuľa, santálové drevo</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/french-avenue-royal-blend</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Fragrance_World_Royal_Blend.png?v=1736513332</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>french-avenue-royal-blend</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>lattafa-the-kingdom-for-men</ITEM_ID>
+      <PRODUCTNAME>Lattafa The Kingdom for Men 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Jean Paul Gaultier Le Male Elixir . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - šalvia, levanduľa, mäta Srdce - tabak, vanilka, pomarančový kvet Základ - benzoin, tonka fazuľa, labdanum</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-the-kingdom-for-men</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/1229_kingdom-men-bottle.png?v=1734342542</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>lattafa-the-kingdom-for-men</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>lattafa-eclaire</ITEM_ID>
+      <PRODUCTNAME>Lattafa Eclaire 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Bianco Latte Giardini Di Toscana . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - karamel, laktonické tóny, cukor Srdce - biele kvety, med Základ - vanilka, pralinka, pižmo</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-eclaire</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/FullSizeRender_e77d3940-19f0-43b6-afe0-acd624aae11e.png?v=1734342159</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>lattafa-eclaire</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
       <ITEM_ID>paris-corner-north-stag-expressions-iv-quatre</ITEM_ID>
       <PRODUCTNAME>Paris Corner North Stag Expressions IV Quatre 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Louis Vuitton Afternoon Swim . Koncentrácia Extrait de Parfum. Popis vône: mandarinka, pomaranč, zázvor, bergamot</DESCRIPTION>
@@ -12,7 +172,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-north-stag-expressions-iv-quatre</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Untitled-4_1.png?v=1733336362</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -44,7 +204,7 @@
       <URL>https://vzorkyparfemov.eu/products/fragrance-world-qahwa</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/qahwa01.png?v=1733335954</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -76,7 +236,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-al-nashama-caprice</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/65837_0_1.png?v=1732896305</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -108,7 +268,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-mawj-appletini</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/MAWJ-Photoroom_5b31fbb1-a56c-4029-85ac-c6ddb479f2d1_1.png?v=1732895811</IMGURL>
       <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -140,7 +300,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-khair</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Khair1_1.png?v=1732894448</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -172,7 +332,7 @@
       <URL>https://vzorkyparfemov.eu/products/armaf-club-de-nuit-blue-iconic</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/club_de_nuit_blue_iconic_perfume_bottle_against_white_background.png?v=1732812854</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -204,7 +364,7 @@
       <URL>https://vzorkyparfemov.eu/products/al-wataniah-kayaan-classic</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Kayaan_Classic_bottle_MAIN_1.png?v=1732811709</IMGURL>
       <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -236,7 +396,7 @@
       <URL>https://vzorkyparfemov.eu/products/zimaya-tiramisu-caramel</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/0082_1.png?v=1732803162</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -268,7 +428,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-rifaaqat-adorn</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/pixelcut-export_acee0574-6174-4702-995f-04d78cc9067b.png?v=1732529359</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -300,7 +460,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-shiyaaka-silver-for-men</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Untitled-design-2024-08-11T114542.096.png?v=1732528863</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -324,15 +484,15 @@
     <SHOPITEM>
       <ITEM_ID>french-avenue-liquid-brun</ITEM_ID>
       <PRODUCTNAME>French Avenue Liquid Brun 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - vanilkový bourbon, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
-      <MANUFACTURER>Fragrance World</MANUFACTURER>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/french-avenue-liquid-brun</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/pixelcut-export_1.png?v=1731949751</IMGURL>
-      <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -357,14 +517,14 @@
       <ITEM_ID>french-avenue-azzure-aoud</ITEM_ID>
       <PRODUCTNAME>French Avenue Azzure Aoud 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Crivelli Oud Maracuja. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - marakuja, šafrán, ruža Srdce - oud (agárové drevo), pačuli, benzoin Základ - koža, vanilka, jantár</DESCRIPTION>
-      <MANUFACTURER>Fragrance World</MANUFACTURER>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/french-avenue-azzure-aoud</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/pixelcut-export.png?v=1731949123</IMGURL>
-      <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -396,7 +556,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-december-vanilla</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/december-vanilla-perfume-bottle-surrounded-with-vanilla-and-rose-against-white-background.png?v=1731700506</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -428,7 +588,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-khair-fusion</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/fusion.png?v=1731700078</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -460,7 +620,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-khair-pistachio</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/IMG-0329.png?v=1731699752</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -492,7 +652,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-yara</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/lattafa-yara-edp-perfume-cologne-517073.png?v=1731699222</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -524,7 +684,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-taskeen-marina</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/paris-corner-taskeen-marina.png?v=1731698975</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -556,7 +716,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-rifaaqat</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/cpblXkL1iEC1W2jdPOjmyNFWwWI20krZP66w6t03.png?v=1731698601</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -588,7 +748,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-qaed-al-fursan</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/155719_0.png?v=1731698133</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -620,7 +780,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-qaed-al-fursan-unlimited</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/qaed-al-fursan-unlimited-perfume-bottle-against-white-background.png?v=1731698000</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -652,7 +812,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-25-experience</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/25-EXPERIENCE-PERFUME-BOTTLE-surrounded-with-cardamom-and-rose-SHOWS-AGAINST-WHITE-BACKGROUND.png?v=1731697522</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -684,7 +844,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-ana-abiyedh-rouge</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/s-l1200.png?v=1731697252</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -716,7 +876,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-qissa</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/20240131-174030.png?v=1731346419</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -748,7 +908,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-north-stag-expressions-ii-deux</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/expressions-2-deux-men-extrait-de-parfum-100ml-north-stag-307973-55375022424395.png?v=1731345263</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -780,7 +940,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-north-stag-expressions-i-un</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/NorthStagExpressionsIUn.png?v=1731344868</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -812,7 +972,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-emir-cedrat-essence</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/emir-cedrat-essense-1-659e6a03e5a36.png?v=1731344227</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -844,7 +1004,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-karus-blu-spice</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/KARUS_BLU_SPICE_100_ML_EDP_SPRAY_-_Khadlaj_Perfumes-1964834.png?v=1731343787</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -876,7 +1036,7 @@
       <URL>https://vzorkyparfemov.eu/products/afnan-supremacy-in-heaven-copy</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Afnan-Supremacy-Incense-For-Men-By-Afnan-Eau-De-Parfum-3.4-Oz_1080x_fee5623d-b6cd-47e6-942c-06d0e4c9a22e.png?v=1731342832</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -908,7 +1068,7 @@
       <URL>https://vzorkyparfemov.eu/products/afnan-supremacy-in-heaven</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Supremacy-In-Heaven-by-Afnan-Perfume-Unisex-72-Essences_1800x_0ed44d27-f529-40cc-b392-cfbb14a40042.png?v=1731342176</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -940,7 +1100,7 @@
       <URL>https://vzorkyparfemov.eu/products/afnan-9-pm</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/afnan-9pm-eau-de-parfum-100ml-spray-p78934-28732_image.png?v=1731341784</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -972,7 +1132,7 @@
       <URL>https://vzorkyparfemov.eu/products/rayhaan-imperia</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/rayhaan-imperia-perfume-bottle-against-white-background.png?v=1730317280</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1004,7 +1164,7 @@
       <URL>https://vzorkyparfemov.eu/products/paris-corner-mawj-moscow-mule</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/NewProject_1.png?v=1733567106</IMGURL>
       <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1036,7 +1196,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-sheikh-al-shuyukh-final-edition</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/lattafa-sheikh-al-shuyukh-final-edition-edp-100-ml-m.png?v=1730316620</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1068,7 +1228,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-maahir-legacy</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/maahir-legacy-perfume-100ml-edp-lattafa-emirates-oud-6.png?v=1730316294</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1100,7 +1260,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-liam-blue-shine</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/116.png?v=1730316049</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1132,7 +1292,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-khamrah</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/KHAMRAH_EAU_DE_PARFUM_perfume_bottle_photograph_over_reflected_surface_and_surrounded_with_cinnamon_and_white_flowers.png?v=1730315771</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1164,7 +1324,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-fakhar-black</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/fakhar_lattafa_bottle_900x_a6e4fbde-f3be-4afd-a3e0-ee7ee87b1f93.png?v=1730315373</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1196,7 +1356,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-bade-e-al-oud-oud-for-glory</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Bade_eAlOudOudforGlory2_Lattafa_3_4Oz.png?v=1730314989</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1228,7 +1388,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-asad</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Dizajn-bez-nazvu-92.png?v=1730314398</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1260,7 +1420,7 @@
       <URL>https://vzorkyparfemov.eu/products/lattafa-ameer-al-oud-intesne-oud</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/lattafa-ameer-al-oudh-intense-oud-100-ml-1.png?v=1730487871</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1292,7 +1452,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-wow-oud</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/70694_0.png?v=1730487998</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1324,7 +1484,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-shiyaaka-blue</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/SHIYAAKA_BLUE_perfume_bottle_surrounded_by_rose_and_lemon_against_white_background.png?v=1730313402</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1356,7 +1516,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-oud-noir</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/65105_0.png?v=1730313065</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1388,7 +1548,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-le-prestige-empress</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/LE_PRESTIGE_EMPRESS_100_ML_EDP_SPRAY_-_Khadlaj_Perfumes-1965241.png?v=1730312800</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1420,7 +1580,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-le-prestige-bold</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/le-PRESTIGE-bold-perfume-bottle-surrounded-with-saffron-and-citrus-against-white-background.png?v=1730309991</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1452,7 +1612,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-karus-oud-fire</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/KARUS_OUD_FIRE_100_ML_EDP_SPRAY_-_Khadlaj_Perfumes-1964843.png?v=1730309787</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1484,7 +1644,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-gaith</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/GAITH_100_ML_EDP_SPRAY_-_Khadlaj_Perfumes-1964674.png?v=1730301267</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1516,7 +1676,7 @@
       <URL>https://vzorkyparfemov.eu/products/khadlaj-25-trust</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/25-trust-PERFUME-BOTTLE-surrounded-with-ambergris-and-musk-SHOWS-AGAINST-WHITE-BACKGROUND.png?v=1730488135</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1548,7 +1708,7 @@
       <URL>https://vzorkyparfemov.eu/products/hugo-boss-the-scent-absolute</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/P1gvow251330-0-dgl-SK.png?v=1730300749</IMGURL>
       <PRICE_VAT>2.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1580,7 +1740,7 @@
       <URL>https://vzorkyparfemov.eu/products/fragrance-world-safari-elixir</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/safari-elixir-perfume-bottle-surrounded-with-peach-and-cardamom-against-white-background.png?v=1730294758</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1612,7 +1772,7 @@
       <URL>https://vzorkyparfemov.eu/products/fragrance-world-neroli-riviera</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/neroli-riviera-perfume-80ml-edp-fragrance-world-1.png?v=1730294544</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1644,7 +1804,7 @@
       <URL>https://vzorkyparfemov.eu/products/fragrance-world-b-satin-oud</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/61r6jxGfE-L.png?v=1730293526</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1676,7 +1836,7 @@
       <URL>https://vzorkyparfemov.eu/products/fragrance-world-aqua-pura</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/AquaPuraBottle.png?v=1730293212</IMGURL>
       <PRICE_VAT>1.50</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1708,7 +1868,7 @@
       <URL>https://vzorkyparfemov.eu/products/afnan-9-am-dive</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/afnan9am.png?v=1730292775</IMGURL>
       <PRICE_VAT>2.00</PRICE_VAT>
-      <DELIVERY_DATE>0</DELIVERY_DATE>
+      <DELIVERY_DATE></DELIVERY_DATE>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
