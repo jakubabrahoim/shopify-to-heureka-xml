@@ -2,7 +2,7 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
-      <ITEM_ID>aromatix-x-french-avenue-royal-taboo</ITEM_ID>
+      <ITEM_ID>royal-taboo</ITEM_ID>
       <PRODUCTNAME>Aromatix x French Avenue Royal Taboo 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm, bezoin, škorica, jantár Srdce - tabak, kašmírové drevo, jasmín, heliotrop Základ - tonka fazuľa, pačuli, vanilka, suché drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
@@ -33,7 +33,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>aromatix-x-french-avenue-carnal-desire</ITEM_ID>
+      <ITEM_ID>carnal-desire</ITEM_ID>
       <PRODUCTNAME>Aromatix x French Avenue Carnal Desire 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - malina, škorica, bergamot Srdce - orris, cukrová vata, ruža Základ - koža, oud (agárové drevo), vanilka, céder, pačuli</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
@@ -64,7 +64,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>french-avenue-royal-blend</ITEM_ID>
+      <ITEM_ID>royal-blend</ITEM_ID>
       <PRODUCTNAME>French Avenue Royal Blend 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Angels&apos; Share . Koncentrácia Extrait de Parfum. Popis vône: Hlava - koňak, škorica, slivka Srdce - dúhovka, myrha Základ - vanilka, tonka fazuľa, santálové drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
@@ -95,7 +95,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-the-kingdom-for-men</ITEM_ID>
+      <ITEM_ID>the-kingdom-for-men</ITEM_ID>
       <PRODUCTNAME>Lattafa The Kingdom for Men 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Jean Paul Gaultier Le Male Elixir . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - šalvia, levanduľa, mäta Srdce - tabak, vanilka, pomarančový kvet Základ - benzoin, tonka fazuľa, labdanum</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -126,7 +126,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-eclaire</ITEM_ID>
+      <ITEM_ID>eclaire</ITEM_ID>
       <PRODUCTNAME>Lattafa Eclaire 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Bianco Latte Giardini Di Toscana . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - karamel, laktonické tóny, cukor Srdce - biele kvety, med Základ - vanilka, pralinka, pižmo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -157,7 +157,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-north-stag-expressions-iv-quatre</ITEM_ID>
+      <ITEM_ID>expressions-iv-quatre</ITEM_ID>
       <PRODUCTNAME>Paris Corner North Stag Expressions IV Quatre 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Louis Vuitton Afternoon Swim . Koncentrácia Extrait de Parfum. Popis vône: mandarinka, pomaranč, zázvor, bergamot</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -188,7 +188,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>fragrance-world-qahwa</ITEM_ID>
+      <ITEM_ID>qahwa</ITEM_ID>
       <PRODUCTNAME>Fragrance World Qahwa 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Intoxicated . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm Srdce - káva, dym, labdanum Základ - ďatle, cédrové drevo, benzoin</DESCRIPTION>
       <MANUFACTURER>Fragrance World</MANUFACTURER>
@@ -219,7 +219,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-al-nashama-caprice</ITEM_ID>
+      <ITEM_ID>al-nashama-caprice</ITEM_ID>
       <PRODUCTNAME>Lattafa Al Nashama Caprice 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Yves Saint Laurent La Nuit de L&apos;Homme Bleu Électrique. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, citrón, zázvor, kardamóm Srdce - geranium, mäta, levanduľa Základ - jantár, pačuli, vetiver, cédrové drevo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -250,7 +250,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-mawj-appletini</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Mawj Appletini 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Apple Brandy on the Rocks . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm, bergamot Srdce - jablko, rum, koňak, ananás, vanilka, dubový mach Základ - ambroxan, céder</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -281,7 +281,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-khair</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Khair 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Gissah Imperial Valley. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - davana, bergamot, ružové korenie Srdce - jantár, rozmarín, oud (agárové drevo) Základ - pižmo, koža, vetiver</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -312,7 +312,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>armaf-club-de-nuit-blue-iconic</ITEM_ID>
+      <ITEM_ID>club-de-nuit-blue-iconic</ITEM_ID>
       <PRODUCTNAME>Armaf Club de Nuit Blue Iconic 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Bleu de Chanel. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - grep, citrón, mäta, ružové korenie, koriander Srdce - zázvor, muškátový orech, jasmín, melón Základ - kadidlo, jantár, cédrové drevo, pačuli, labdanum, drevité tóny</DESCRIPTION>
       <MANUFACTURER>Armaf</MANUFACTURER>
@@ -343,7 +343,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>al-wataniah-kayaan-classic</ITEM_ID>
+      <ITEM_ID>kayaan-classic</ITEM_ID>
       <PRODUCTNAME>Al Wataniah Kayaan Classic 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Dior Homme Intense. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kosatec, pomaranč Srdce - koža, ruža Základ - santálové drevo, ambrette, oud (agárové drevo), céder</DESCRIPTION>
       <MANUFACTURER>Al Wataniah</MANUFACTURER>
@@ -374,7 +374,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>zimaya-tiramisu-caramel</ITEM_ID>
+      <ITEM_ID>tiramisu-caramel</ITEM_ID>
       <PRODUCTNAME>Zimaya Tiramisu Caramel 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Bianco Latte Giardini Di Toscana a Lattafa Eclaire . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - karamel Srdce - med, drevité tóny, coumarin Základ - vanilka, whiskey, pižmo</DESCRIPTION>
       <MANUFACTURER>Zimaya</MANUFACTURER>
@@ -405,7 +405,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-rifaaqat-adorn</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Rifaaqat Adorn 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Yves Saint Laurent Tuxedo . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - ružové korenie, koriander, mandarínka, fialka Srdce - céder, pačuli, dubový mach Základ - ambra, vanilka, drevité tóny, benzoin</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -436,7 +436,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-shiyaaka-silver-for-men</ITEM_ID>
+      <ITEM_ID>shiyaaka-silver-for-men</ITEM_ID>
       <PRODUCTNAME>Khadlaj Shiyaaka Silver for Men 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Amouage Reflection . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - petitgrain, rozmarín, čierne korenie Srdce - neroli, orris, jasmín Základ - céder, vetiver, pačuli</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -467,7 +467,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>french-avenue-liquid-brun</ITEM_ID>
+      <ITEM_ID>liquid-brun</ITEM_ID>
       <PRODUCTNAME>French Avenue Liquid Brun 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
@@ -498,7 +498,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>french-avenue-azzure-aoud</ITEM_ID>
+      <ITEM_ID>azzure-aoud</ITEM_ID>
       <PRODUCTNAME>French Avenue Azzure Aoud 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Crivelli Oud Maracuja. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - marakuja, šafrán, ruža Srdce - oud (agárové drevo), pačuli, benzoin Základ - koža, vanilka, jantár</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
@@ -529,7 +529,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-december-vanilla</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner December Vanilla 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Kayali Vanilla Royale Sugared Patchouli. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - rum, vanilka, jasmín Srdce - vanilka, creme bluée, korenisté tóny, koža, tonka fazuľa, ruža Základ - pačuli, hnedý cukor, oud (agárové drevo), cukor, jantár, pižmo</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -560,7 +560,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-khair-fusion</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Khair Fusion 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Kayali Eden Sparkling Lychee. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - liči, ríbezľa, jablko Srdce - jasmín, ruža, fialka Základ - santálové drevo, vanilka, hnedý cukor</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -591,7 +591,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-khair-pistachio</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Khair Pistachio 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Kayali Yum Pistachio Gelato. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - pistácia Srdce - konvalinka, krém, pivonka Základ - cukrová vata, vanilka, tonka fazuľa</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -622,7 +622,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-yara</ITEM_ID>
+      <ITEM_ID>yara</ITEM_ID>
       <PRODUCTNAME>Lattafa Yara 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - mandarinka, heliotrop, orchidea Srdce - tropické ovocie, gurmánska zložka Základ - vanilka, santálové drevo, pižmo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -653,7 +653,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-taskeen-marina</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Taskeen Marina 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - tropické ovocie, pomaranč, grep Srdce - konvalinka, jasmín, broskyňa Základ - pižmo, ríbezľa, jantár</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -684,7 +684,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-rifaaqat</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Rifaaqat 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Yves Saint Laurent Babycat. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - elemi, ružové korenie, čierne korenie Srdce - šafrán, kadidlo Základ - vanilka, semiš, céder</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -715,7 +715,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-qaed-al-fursan</ITEM_ID>
+      <ITEM_ID>qaed-al-fursan</ITEM_ID>
       <PRODUCTNAME>Lattafa Qaed Al Fursan 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - šafrán, ananás Srdce - jasmín, jedľa, balzamové tóny Základ - oud (agárové drevo), cédrové drevo, jantár</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -746,7 +746,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-qaed-al-fursan-unlimited</ITEM_ID>
+      <ITEM_ID>qaed-al-fursan-unlimited</ITEM_ID>
       <PRODUCTNAME>Lattafa Qaed Al Fursan Unlimited 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - ananás, citrusy, kokos Srdce - jasmín, frangipani, ylang-ylang Základ - vanilka, biele pižmo, santálové drevo, sladké tóny</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -777,7 +777,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-25-experience</ITEM_ID>
+      <ITEM_ID>25-experience</ITEM_ID>
       <PRODUCTNAME>Khadlaj 25 Experience 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Francis Kurkdjian Baccarat Rouge 540. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, eukalyptus, kardamóm Srdce - ruža, figový strom, cédrové drevo Základ - cashmeran, kadidlo, santálové drevo</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -808,7 +808,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-ana-abiyedh-rouge</ITEM_ID>
+      <ITEM_ID>ana-abiyedh-rouge</ITEM_ID>
       <PRODUCTNAME>Lattafa Ana Abiyedh Rouge 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Francis Kurkdjian Baccarat Rouge 540. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - hruška, kumkvat, bergamot Srdce - pelargónia (geranium), karamel Základ - ambra, dubový mach, pižmo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -839,7 +839,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-qissa</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Qissa 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrusy, bergamot, citrón, koža, ylang-ylang, artemisia Srdce - pomaranč, kvetinové tóny, jasmín, zázvor, pačuli, magnólia Základ - pižmo, jantár, púdrové tóny, drevité tóny, šafrán, dubový mach</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -870,7 +870,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-north-stag-expressions-ii-deux</ITEM_ID>
+      <ITEM_ID>expressions-ii-deux</ITEM_ID>
       <PRODUCTNAME>Paris Corner North Stag Expressions II Deux 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Parfums De Marly Layton . Koncentrácia Extrait de Parfum. Popis vône: Hlava - jablko, levanduľa, bergamot, mandarinka, pomaranč Srdce - geranium, fialka, jasmín Základ - vanilka, kardamóm, čierne korenie, pačuli, guaiakové drevo, santálové drevo</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -901,7 +901,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-north-stag-expressions-i-un</ITEM_ID>
+      <ITEM_ID>expressions-i-un</ITEM_ID>
       <PRODUCTNAME>Paris Corner North Stag Expressions I Un 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná BVLGARI Tygar . Koncentrácia Extrait de Parfum. Popis vône: grep, ambroxan, drevité tóny</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -932,7 +932,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-emir-cedrat-essence</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Emir Cedrat Essence 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Mancera Cedrat Boise . Koncentrácia Extrait de Parfum. Popis vône: Hlava - citrón, bergamot, ríbezľa, korenisté tóny Srdce - ovocné tóny, pačuli, jasmín Základ - céder, koža, santálové drevo, vanilka, biele pižmo, dubový mach</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -963,7 +963,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-karus-blu-spice</ITEM_ID>
+      <ITEM_ID>karus-blu-spice</ITEM_ID>
       <PRODUCTNAME>Khadlaj Karus Blu Spice 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Louis Vuitton Imagination . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - čaj, bergamot Srdce - škorica, neroli, zázvor Základ - jantárové drevo, kadidlo, guaiakové drevo</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -994,7 +994,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>afnan-supremacy-in-heaven-copy</ITEM_ID>
+      <ITEM_ID>supremacy-in-heaven-copy</ITEM_ID>
       <PRODUCTNAME>Afnan Supremacy Incense 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Amouage Interlude . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, oregáno, čierne korenie Srdce - jantár, labdanum, opoponax Základ - koža, santálové drevo, pačuli, oud (agárové drevo)</DESCRIPTION>
       <MANUFACTURER>Afnan</MANUFACTURER>
@@ -1025,7 +1025,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>afnan-supremacy-in-heaven</ITEM_ID>
+      <ITEM_ID>supremacy-in-heaven</ITEM_ID>
       <PRODUCTNAME>Afnan Supremacy In Heaven 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Creed Silver Mountain Water . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, mandarinka Srdce - zelený čaj, ríbezľa Základ - pižmo, santálové drevo, drevené tóny</DESCRIPTION>
       <MANUFACTURER>Afnan</MANUFACTURER>
@@ -1056,7 +1056,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>afnan-9-pm</ITEM_ID>
+      <ITEM_ID>9-pm</ITEM_ID>
       <PRODUCTNAME>Afnan 9 PM 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Jean Paul Gaultier Ultra Male . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, levanduľa, škorica, jablko Srdce - konvalinka, pomarančový kvet Základ - pačuli, jantár, vanilka, tonka fazuľa</DESCRIPTION>
       <MANUFACTURER>Afnan</MANUFACTURER>
@@ -1087,7 +1087,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>rayhaan-imperia</ITEM_ID>
+      <ITEM_ID>imperia</ITEM_ID>
       <PRODUCTNAME>Rayhaan Imperia 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Creed Aventus . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, jablko, mäta, elemi Srdce - jasmín, ruža, pačuli, santálové drevo Základ - dubový mach, pižmo, jantár, céder</DESCRIPTION>
       <MANUFACTURER>Rayhaan</MANUFACTURER>
@@ -1118,7 +1118,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>paris-corner-mawj-moscow-mule</ITEM_ID>
+      <ITEM_ID></ITEM_ID>
       <PRODUCTNAME>Paris Corner Mawj Moscow Mule 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Blue Moon Ginger Dash . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrón, zázvor, bergamot Srdce - bylinné tóny, cypress, mäta Základ - ozonické tóny, jantár, dubový mach</DESCRIPTION>
       <MANUFACTURER>Paris Corner</MANUFACTURER>
@@ -1149,7 +1149,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-sheikh-al-shuyukh-final-edition</ITEM_ID>
+      <ITEM_ID>sheikh-al-shuyukh-final-edition</ITEM_ID>
       <PRODUCTNAME>Lattafa Sheikh al Shuyukh Final Edition 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Yves Saint Lauren Y . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrónová tráva, šalvia, levanduľa, citrón Srdce - kardamóm, ruža, mimóza, koža, rozmarín Základ - céder, pižmo, dubový mach, jantár, vanilka</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1180,7 +1180,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-maahir-legacy</ITEM_ID>
+      <ITEM_ID>maahir-legacy</ITEM_ID>
       <PRODUCTNAME>Lattafa Maahir Legacy 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Parfums de Marly Sedley . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - limetka, grapefruit, levanduľa, mäta, ananás Srdce - bobule borievky, rozmarín, kadidlo, geranium, čierne korenie Základ - vetiver, cashmeran, ambroxan, dubový mach, tonka fazuľa</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1211,7 +1211,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-liam-blue-shine</ITEM_ID>
+      <ITEM_ID>liam-blue-shine</ITEM_ID>
       <PRODUCTNAME>Lattafa Liam Blue Shine 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Giorgio Armani Aqua Di Gio Profondo . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, čierne korenie, rozmarín Srdce - morské tóny, fialka Základ - pačuli, jantár, pižmo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1242,7 +1242,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-khamrah</ITEM_ID>
+      <ITEM_ID>khamrah</ITEM_ID>
       <PRODUCTNAME>Lattafa Khamrah 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Angels&apos; Share a Gissah Sava . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, škorica, muškátový orech Srdce - ďatle, konvalinka, pralinka, tuberóza Základ - tonka fazuľa, benzoín, myrha, akigala drevo, vanilka, jantárové drevo</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1273,7 +1273,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-fakhar-black</ITEM_ID>
+      <ITEM_ID>fakhar-black</ITEM_ID>
       <PRODUCTNAME>Lattafa Fakhar Black 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Yves Saint Laurent Y EdP . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, orris, morské tóny Srdce - fialka, jantár Základ - dubový mach, pačuli</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1304,7 +1304,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-bade-e-al-oud-oud-for-glory</ITEM_ID>
+      <ITEM_ID>bade-e-al-oud-oud-for-glory</ITEM_ID>
       <PRODUCTNAME>Lattafa Bade’e al Oud Oud for Glory 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Initio Oud for Greatness . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - šafrán, muškátový orech, levanduľa, ružové korenie, ríbezla Srdce - oud (agárové drevo), pivoňka, karamel Základ - pižmo, pačuli, malina, jantár</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1335,7 +1335,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-asad</ITEM_ID>
+      <ITEM_ID>asad</ITEM_ID>
       <PRODUCTNAME>Lattafa Asad 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Dior Sauvage Elixir . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - čierne korenie, ananás, tabak Srdce - káva, dúhovka, pačuli Základ - jantár, vanilka, drevené tóny, benzoin, labdanum</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1366,7 +1366,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>lattafa-ameer-al-oud-intesne-oud</ITEM_ID>
+      <ITEM_ID>ameer-al-oud-intesne-oud</ITEM_ID>
       <PRODUCTNAME>Lattafa Ameer al Oudh Intesne Oud 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Maison Margiela By the Fireplace . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - drevené tóny, oud (agárové drevo) Srdce - cukor, vanilka Základ - oud (agárové drevo), santálové drevo, bylinné tóny</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
@@ -1397,7 +1397,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-wow-oud</ITEM_ID>
+      <ITEM_ID>wow-oud</ITEM_ID>
       <PRODUCTNAME>Khadlaj Wow Oud 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - šafrán Srdce - orris, oud (agárové drevo) Základ - oud (agárové drevo), vanilka, koža</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1428,7 +1428,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-shiyaaka-blue</ITEM_ID>
+      <ITEM_ID>shiyaaka-blue</ITEM_ID>
       <PRODUCTNAME>Khadlaj Shiyaaka Blue 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Bleu de Chanel a JPG Scandal pour Homme . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, limetka, bazalka Srdce - levanduľa, pačuli Základ - jantár, pyžmo, céder</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1459,7 +1459,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-oud-noir</ITEM_ID>
+      <ITEM_ID>oud-noir</ITEM_ID>
       <PRODUCTNAME>Khadlaj Oud Noir 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Louis Vuitton Ombré Nomade . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - korenisté tóny, šafrán, malina Srdce - kadidlo, ruža, cypriol Základ - pačuli, oud (agárové drevo), jantár</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1490,7 +1490,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-le-prestige-empress</ITEM_ID>
+      <ITEM_ID>le-prestige-empress</ITEM_ID>
       <PRODUCTNAME>Khadlaj Le Prestige Empress 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná BVLGARI Tygar . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, bergamot, bylinné tóny Srdce - ruža, fialka, jasmín Základ - pačuli, vetiver, céder</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1521,7 +1521,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-le-prestige-bold</ITEM_ID>
+      <ITEM_ID>le-prestige-bold</ITEM_ID>
       <PRODUCTNAME>Khadlaj Le Prestige Bold 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Francis Kurkdjian Baccarat Rouge 540. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, kokos, šafrán Srdce - fialka, jasmín, suché drevo Základ - santálové drevo, pačuli, vanilka</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1552,7 +1552,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-karus-oud-fire</ITEM_ID>
+      <ITEM_ID>karus-oud-fire</ITEM_ID>
       <PRODUCTNAME>Khadlaj Karus Oud Fire 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm, davana Srdce - ruža, muškátový orech Základ - vanilka, pačuli, ambra</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1583,7 +1583,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-gaith</ITEM_ID>
+      <ITEM_ID>gaith</ITEM_ID>
       <PRODUCTNAME>Khadlaj Gaith 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Dior Sauvage Elixir . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, ružové korenie, čierne korenie Srdce - kadidlo, levanduľa, cypress Základ - pačuli, labdanum, vanilka</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1614,7 +1614,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>khadlaj-25-trust</ITEM_ID>
+      <ITEM_ID>25-trust</ITEM_ID>
       <PRODUCTNAME>Khadlaj 25 Trust 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kayali Yum Pistachio Gelato . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - pistácia, bergamot, mandarinka, kardamóm, ružové korenie, broskyňa. čerešna Srdce - jasmín, neroli, céder, kokos, laktonické noty Základ - vanilka, karamel, tonka fazuľa, santálové drevo, pižmo</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
@@ -1645,7 +1645,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>hugo-boss-the-scent-absolute</ITEM_ID>
+      <ITEM_ID>the-scent-absolute</ITEM_ID>
       <PRODUCTNAME>Hugo Boss The Scent Absolute 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor Srdce - maninka Základ - vetiver</DESCRIPTION>
       <MANUFACTURER>Hugo Boss</MANUFACTURER>
@@ -1676,7 +1676,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>fragrance-world-safari-elixir</ITEM_ID>
+      <ITEM_ID>safari-elixir</ITEM_ID>
       <PRODUCTNAME>Fragrance World Safari Elixir 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Tom Ford Bitter Peach . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - broskyňa, krvavý pomaranč, kardamóm, heliotrop Srdce - rum, koňak, davana, jasmín Základ - pačuli, vanilka, tonka fazuľa, santálové drevo, benzoin, cashmeran, styrax, labdanum, vetiver</DESCRIPTION>
       <MANUFACTURER>Fragrance World</MANUFACTURER>
@@ -1707,7 +1707,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>fragrance-world-neroli-riviera</ITEM_ID>
+      <ITEM_ID>neroli-riviera</ITEM_ID>
       <PRODUCTNAME>Fragrance World Neroli Riviera 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Tom Ford Neroli Portofino . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, mandarinka, pomaranč, citrón, horký pomaranč, levanduľa, rozmarín, myrta Srdce - pomarančový kvet, neroli, jasmín, pittosporum Základ - jantár, magnólia, angelika, ambrette, pižmo</DESCRIPTION>
       <MANUFACTURER>Fragrance World</MANUFACTURER>
@@ -1738,7 +1738,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>fragrance-world-b-satin-oud</ITEM_ID>
+      <ITEM_ID>b-satin-oud</ITEM_ID>
       <PRODUCTNAME>Fragrance World B Satin Oud 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Francis Kurkdjian Oud Satin Mood . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bulharská ruža, turecká ruža Srdce - vanilka, oud (agárové drevo) Základ - fialka, benzoin</DESCRIPTION>
       <MANUFACTURER>Fragrance World</MANUFACTURER>
@@ -1769,7 +1769,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>fragrance-world-aqua-pura</ITEM_ID>
+      <ITEM_ID>aqua-pura</ITEM_ID>
       <PRODUCTNAME>Fragrance World Aqua Pura 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Orto Parisi Megamare . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, citrón Srdce - calone, hedione, morská riasa Základ - ambroxan, céder, pižmo</DESCRIPTION>
       <MANUFACTURER>Fragrance World</MANUFACTURER>
@@ -1800,7 +1800,7 @@
     </SHOPITEM>
   
     <SHOPITEM>
-      <ITEM_ID>afnan-9-am-dive</ITEM_ID>
+      <ITEM_ID>9-am-dive</ITEM_ID>
       <PRODUCTNAME>Afnan 9 AM Dive 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrón, ružové korenie, mäta, čierna ríbezľa Srdce - jablko, kadidlo, céder Základ - pačuli, jasmín, zázvor, santalové drevo</DESCRIPTION>
       <MANUFACTURER>Afnan</MANUFACTURER>

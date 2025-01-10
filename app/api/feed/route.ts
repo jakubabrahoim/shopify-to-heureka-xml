@@ -16,6 +16,21 @@ function escapeXml(unsafe: string): string {
   });
 }
 
+function removeVendorFromItemId(itemId: string): string {
+  // ITEM_ID must be max 36 characters long
+  const vendors = ['afnan', 'al-wataniah', 'armaf', 'fragrance-world', 'french-avenue', 'aromatix-x-french-avenue', 'hugo-boss', 'khadlaj', 'lattafa', 'paris-Corner', 'paris-corner-north-stag', 'rayhaan', 'zimaya'];
+
+  for (const vendor of vendors) {
+    if (itemId.startsWith(vendor)) {
+      const newItemId = itemId.replace(vendor, '').trim().slice(1);
+      console.log(`Removed vendor from title: ${itemId} -> ${newItemId}`);
+      return newItemId;
+    }
+  }
+
+  return '';
+}
+
 function generateXML(products: HeurekaProduct[]): string {
   if (!products || products.length === 0) {
     throw new Error('No products available for XML generation');
@@ -23,7 +38,7 @@ function generateXML(products: HeurekaProduct[]): string {
 
   const items = products.map(product => `
     <SHOPITEM>
-      <ITEM_ID>${escapeXml(product.ITEM_ID)}</ITEM_ID>
+      <ITEM_ID>${escapeXml(removeVendorFromItemId(product.ITEM_ID))}</ITEM_ID>
       <PRODUCTNAME>${escapeXml(product.PRODUCTNAME)}</PRODUCTNAME>
       <DESCRIPTION>${escapeXml(product.DESCRIPTION)}</DESCRIPTION>
       <MANUFACTURER>${escapeXml(product.MANUFACTURER)}</MANUFACTURER>
