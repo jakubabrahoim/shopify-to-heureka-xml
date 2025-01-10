@@ -18,7 +18,7 @@ function escapeXml(unsafe: string): string {
 
 function removeVendorFromItemId(itemId: string): string {
   // ITEM_ID must be max 36 characters long
-  const vendors = ['afnan', 'al-wataniah', 'armaf', 'fragrance-world', 'french-avenue', 'aromatix-x-french-avenue', 'hugo-boss', 'khadlaj', 'lattafa', 'paris-Corner', 'paris-corner-north-stag', 'rayhaan', 'zimaya'];
+  const vendors = ['afnan', 'al-wataniah', 'armaf', 'fragrance-world', 'french-avenue', 'aromatix-x-french-avenue', 'hugo-boss', 'khadlaj', 'lattafa', 'paris-corner', 'paris-corner-north-stag', 'rayhaan', 'zimaya'];
 
   for (const vendor of vendors) {
     if (itemId.startsWith(vendor)) {
