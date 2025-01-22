@@ -54,7 +54,7 @@ function generateXML(products: HeurekaProduct[]): string {
           <DELIVERY_PRICE>${value.DELIVERY_PRICE}</DELIVERY_PRICE>
         </DELIVERY>
       `).join('')}
-      ${product.ITEMGROUP_ID ? `<ITEMGROUP_ID>${escapeXml(product.ITEMGROUP_ID)}</ITEMGROUP_ID>` : ''}
+      ${product.ITEMGROUP_ID ? `<ITEMGROUP_ID>${escapeXml(removeVendorFromItemId(product.ITEMGROUP_ID))}</ITEMGROUP_ID>` : ''}
       ${product.PARAM ? product.PARAM.map(param => `
         <PARAM>
           <PARAM_NAME>${escapeXml(param.PARAM_NAME)}</PARAM_NAME>

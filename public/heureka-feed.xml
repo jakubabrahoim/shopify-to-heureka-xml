@@ -2,9 +2,288 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
+      <ITEM_ID>khamrah-qahwa</ITEM_ID>
+      <PRODUCTNAME>Lattafa Khamrah Qahwa 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Očakávame 23-27.1. Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, škorica, kardamóm Srdce - pralinka, kandizované ovocie, biele kvety Základ - káva, tonka fazuľa, pižmo, benzoin, vanilka</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-khamrah-qahwa</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/khamrahqahwalattafa_a3169089-15d4-4ef5-a6de-a62edc740f01.png?v=1737480667</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>khamrah-qahwa</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>reserved-black-cedar</ITEM_ID>
+      <PRODUCTNAME>Zimaya Reserved Black Cedar 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Očakávame 21-23.1. Vzorka/odstrek parfému. Vôna inšpirovaná Nishane Papilefiko . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrusy, koriander, kardamóm Srdce - levanduľa, artemisia, jasmín Základ - dubový mach, jedľa, živica</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-reserved-black-cedar</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/469033303_17942377760923472_2868869218900344046_n-Photoroom.png?v=1737312521</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>reserved-black-cedar</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>mashrabya</ITEM_ID>
+      <PRODUCTNAME>Lattafa Mashrabya 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Očakávame 21-23.1. Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Smoking Hot . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - jablková shisha, ružové korenie Srdce - škorica, ďatle, tabak Základ - vanilka, karamel, pačuli</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-mashrabya</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/eau-de-parfum-mashrabya.png?v=1737311783</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>mashrabya</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>arsh</ITEM_ID>
+      <PRODUCTNAME>French Avenue Arsh 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Guerlain L’Homme Idéal Platine Privé. Koncentrácia Extrait de Parfum. Popis vône: Hlava - bergamot, muškátový orech, čierne korenie, šafrán Srdce - dúhovka, gurjunský balzam, cédrové drevo, labdanum Základ - oud (agárové drevo), koža, santálové drevo, pačuli</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/french-avenue-arsh</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/pixelcut-export_0e7cfa81-f9ac-4900-aff9-edf499caa86d.png?v=1736938008</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>arsh</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>amber-saffron</ITEM_ID>
+      <PRODUCTNAME>French Avenue Amber Saffron 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Extrait de Parfum. Popis vône: Hlava - citrusy, ovocné tóny, zelené tóny, mäta, korenisté tóny, šafrán Srdce - karafiát, konvalinka, ruža, jasmín Základ - jantár, balzamické tóny, pižmo, oud (agárové drevo), pačuli, tonka fazuľa, drevité tóny</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/french-avenue-amber-saffron</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/world-fragrance-amber-saffron-extrait-1-1.png?v=1736937438</IMGURL>
+      <PRICE_VAT>3.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>amber-saffron</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>reserved-oud</ITEM_ID>
+      <PRODUCTNAME>Zimaya Reserved Oud 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Emporio Armani Stronger With You Oud . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - oud (agárové drevo), levanduľa Srdce - vanilka, pižmo, púdrové tóny Základ - jantár, sladké tóny, aromatické tóny</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-reserved-oud</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/sg-11134201-7rdxn-m047edh0f6ld4a-Photoroom-Photoroom.png?v=1736871536</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>reserved-oud</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>night-shadow</ITEM_ID>
+      <PRODUCTNAME>Zimaya Night Shadow 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Louis Vuitton Ombre Nomade . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kadidlo, ruža, malina Srdce - breza, šafrán Základ - benzoin, geranium, oud (agárové drevo)</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-night-shadow</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/135445_0-Photoroom.png?v=1736870997</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>night-shadow</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>charuto-tobacco-vanille</ITEM_ID>
+      <PRODUCTNAME>Paris Corner Charuto Tobacco Vanille 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Tom Ford Tobacco Vanille . Koncentrácia Eau de Parfum (EdP). Popis vône: tabak, vanilka</DESCRIPTION>
+      <MANUFACTURER>Paris Corner</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/paris-corner-charuto-tobacco-vanille</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/wzzytdlc4hcd1-Photoroom.png?v=1736870694</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>charuto-tobacco-vanille</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>oud-najdia</ITEM_ID>
+      <PRODUCTNAME>Lattafa Oud Najdia 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Paco Rabanne Invictus . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrusy, céder Srdce - oud (agárové drevo), kardamóm, rozmarín, škorica, levanduľa Základ - pačuli, jantár, pižmo</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-oud-najdia</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/lattafa-oud-najdia-parfumovana-voda-100-ml-541788-Photoroom.png?v=1736870087</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>oud-najdia</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
       <ITEM_ID>royal-taboo</ITEM_ID>
       <PRODUCTNAME>Aromatix x French Avenue Royal Taboo 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - kardamóm, bezoin, škorica, jantár Srdce - tabak, kašmírové drevo, jasmín, heliotrop Základ - tonka fazuľa, pačuli, vanilka, suché drevo</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Extrait de Parfum. Popis vône: Hlava - kardamóm, bezoin, škorica, jantár Srdce - tabak, kašmírové drevo, jasmín, heliotrop Základ - tonka fazuľa, pačuli, vanilka, suché drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -23,7 +302,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>aromatix-x-french-avenue-royal-taboo</ITEMGROUP_ID>
+      <ITEMGROUP_ID>royal-taboo</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -35,7 +314,7 @@
     <SHOPITEM>
       <ITEM_ID>carnal-desire</ITEM_ID>
       <PRODUCTNAME>Aromatix x French Avenue Carnal Desire 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - malina, škorica, bergamot Srdce - orris, cukrová vata, ruža Základ - koža, oud (agárové drevo), vanilka, céder, pačuli</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Extrait de Parfum. Popis vône: Hlava - malina, škorica, bergamot Srdce - orris, cukrová vata, ruža Základ - koža, oud (agárové drevo), vanilka, céder, pačuli</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -54,7 +333,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>aromatix-x-french-avenue-carnal-desire</ITEMGROUP_ID>
+      <ITEMGROUP_ID>carnal-desire</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -85,7 +364,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>french-avenue-royal-blend</ITEMGROUP_ID>
+      <ITEMGROUP_ID>royal-blend</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -116,7 +395,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-the-kingdom-for-men</ITEMGROUP_ID>
+      <ITEMGROUP_ID>the-kingdom-for-men</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -147,7 +426,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-eclaire</ITEMGROUP_ID>
+      <ITEMGROUP_ID>eclaire</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -178,7 +457,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-north-stag-expressions-iv-quatre</ITEMGROUP_ID>
+      <ITEMGROUP_ID>north-stag-expressions-iv-quatre</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -209,7 +488,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>fragrance-world-qahwa</ITEMGROUP_ID>
+      <ITEMGROUP_ID>qahwa</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -240,7 +519,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-al-nashama-caprice</ITEMGROUP_ID>
+      <ITEMGROUP_ID>al-nashama-caprice</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -259,7 +538,7 @@
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/paris-corner-mawj-appletini</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/MAWJ-Photoroom_5b31fbb1-a56c-4029-85ac-c6ddb479f2d1_1.png?v=1732895811</IMGURL>
-      <PRICE_VAT>2.50</PRICE_VAT>
+      <PRICE_VAT>2.00</PRICE_VAT>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -271,7 +550,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-mawj-appletini</ITEMGROUP_ID>
+      <ITEMGROUP_ID>mawj-appletini</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -302,7 +581,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-khair</ITEMGROUP_ID>
+      <ITEMGROUP_ID>khair</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -333,7 +612,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>armaf-club-de-nuit-blue-iconic</ITEMGROUP_ID>
+      <ITEMGROUP_ID>club-de-nuit-blue-iconic</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -352,7 +631,7 @@
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/al-wataniah-kayaan-classic</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Kayaan_Classic_bottle_MAIN_1.png?v=1732811709</IMGURL>
-      <PRICE_VAT>2.50</PRICE_VAT>
+      <PRICE_VAT>2.00</PRICE_VAT>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -364,7 +643,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>al-wataniah-kayaan-classic</ITEMGROUP_ID>
+      <ITEMGROUP_ID>kayaan-classic</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -395,7 +674,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>zimaya-tiramisu-caramel</ITEMGROUP_ID>
+      <ITEMGROUP_ID>tiramisu-caramel</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -426,7 +705,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-rifaaqat-adorn</ITEMGROUP_ID>
+      <ITEMGROUP_ID>rifaaqat-adorn</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -457,7 +736,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-shiyaaka-silver-for-men</ITEMGROUP_ID>
+      <ITEMGROUP_ID>shiyaaka-silver-for-men</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -488,7 +767,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>french-avenue-liquid-brun</ITEMGROUP_ID>
+      <ITEMGROUP_ID>liquid-brun</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -519,7 +798,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>french-avenue-azzure-aoud</ITEMGROUP_ID>
+      <ITEMGROUP_ID>azzure-aoud</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -550,7 +829,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-december-vanilla</ITEMGROUP_ID>
+      <ITEMGROUP_ID>december-vanilla</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -581,7 +860,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-khair-fusion</ITEMGROUP_ID>
+      <ITEMGROUP_ID>khair-fusion</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -612,7 +891,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-khair-pistachio</ITEMGROUP_ID>
+      <ITEMGROUP_ID>khair-pistachio</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -643,7 +922,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-yara</ITEMGROUP_ID>
+      <ITEMGROUP_ID>yara</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -674,7 +953,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-taskeen-marina</ITEMGROUP_ID>
+      <ITEMGROUP_ID>taskeen-marina</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -705,7 +984,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-rifaaqat</ITEMGROUP_ID>
+      <ITEMGROUP_ID>rifaaqat</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -736,7 +1015,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-qaed-al-fursan</ITEMGROUP_ID>
+      <ITEMGROUP_ID>qaed-al-fursan</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -767,7 +1046,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-qaed-al-fursan-unlimited</ITEMGROUP_ID>
+      <ITEMGROUP_ID>qaed-al-fursan-unlimited</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -798,7 +1077,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-25-experience</ITEMGROUP_ID>
+      <ITEMGROUP_ID>25-experience</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -829,7 +1108,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-ana-abiyedh-rouge</ITEMGROUP_ID>
+      <ITEMGROUP_ID>ana-abiyedh-rouge</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -860,7 +1139,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-qissa</ITEMGROUP_ID>
+      <ITEMGROUP_ID>qissa</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -891,7 +1170,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-north-stag-expressions-ii-deux</ITEMGROUP_ID>
+      <ITEMGROUP_ID>north-stag-expressions-ii-deux</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -922,7 +1201,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-north-stag-expressions-i-un</ITEMGROUP_ID>
+      <ITEMGROUP_ID>north-stag-expressions-i-un</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -953,7 +1232,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-emir-cedrat-essence</ITEMGROUP_ID>
+      <ITEMGROUP_ID>emir-cedrat-essence</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -984,7 +1263,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-karus-blu-spice</ITEMGROUP_ID>
+      <ITEMGROUP_ID>karus-blu-spice</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1015,7 +1294,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>afnan-supremacy-in-heaven-copy</ITEMGROUP_ID>
+      <ITEMGROUP_ID>supremacy-in-heaven-copy</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1046,7 +1325,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>afnan-supremacy-in-heaven</ITEMGROUP_ID>
+      <ITEMGROUP_ID>supremacy-in-heaven</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1077,7 +1356,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>afnan-9-pm</ITEMGROUP_ID>
+      <ITEMGROUP_ID>9-pm</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1108,7 +1387,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>rayhaan-imperia</ITEMGROUP_ID>
+      <ITEMGROUP_ID>imperia</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1127,7 +1406,7 @@
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/paris-corner-mawj-moscow-mule</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/NewProject_1.png?v=1733567106</IMGURL>
-      <PRICE_VAT>2.50</PRICE_VAT>
+      <PRICE_VAT>2.00</PRICE_VAT>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
@@ -1139,7 +1418,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>paris-corner-mawj-moscow-mule</ITEMGROUP_ID>
+      <ITEMGROUP_ID>mawj-moscow-mule</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1170,7 +1449,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-sheikh-al-shuyukh-final-edition</ITEMGROUP_ID>
+      <ITEMGROUP_ID>sheikh-al-shuyukh-final-edition</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1201,7 +1480,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-maahir-legacy</ITEMGROUP_ID>
+      <ITEMGROUP_ID>maahir-legacy</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1232,7 +1511,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-liam-blue-shine</ITEMGROUP_ID>
+      <ITEMGROUP_ID>liam-blue-shine</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1263,7 +1542,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-khamrah</ITEMGROUP_ID>
+      <ITEMGROUP_ID>khamrah</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1294,7 +1573,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-fakhar-black</ITEMGROUP_ID>
+      <ITEMGROUP_ID>fakhar-black</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1325,7 +1604,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-bade-e-al-oud-oud-for-glory</ITEMGROUP_ID>
+      <ITEMGROUP_ID>bade-e-al-oud-oud-for-glory</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1356,7 +1635,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-asad</ITEMGROUP_ID>
+      <ITEMGROUP_ID>asad</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1387,7 +1666,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>lattafa-ameer-al-oud-intesne-oud</ITEMGROUP_ID>
+      <ITEMGROUP_ID>ameer-al-oud-intesne-oud</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1418,7 +1697,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-wow-oud</ITEMGROUP_ID>
+      <ITEMGROUP_ID>wow-oud</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1449,7 +1728,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-shiyaaka-blue</ITEMGROUP_ID>
+      <ITEMGROUP_ID>shiyaaka-blue</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1480,7 +1759,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-oud-noir</ITEMGROUP_ID>
+      <ITEMGROUP_ID>oud-noir</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1511,7 +1790,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-le-prestige-empress</ITEMGROUP_ID>
+      <ITEMGROUP_ID>le-prestige-empress</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1542,7 +1821,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-le-prestige-bold</ITEMGROUP_ID>
+      <ITEMGROUP_ID>le-prestige-bold</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1573,7 +1852,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-karus-oud-fire</ITEMGROUP_ID>
+      <ITEMGROUP_ID>karus-oud-fire</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1604,7 +1883,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-gaith</ITEMGROUP_ID>
+      <ITEMGROUP_ID>gaith</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1635,7 +1914,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>khadlaj-25-trust</ITEMGROUP_ID>
+      <ITEMGROUP_ID>25-trust</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1666,7 +1945,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>hugo-boss-the-scent-absolute</ITEMGROUP_ID>
+      <ITEMGROUP_ID>the-scent-absolute</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1697,7 +1976,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>fragrance-world-safari-elixir</ITEMGROUP_ID>
+      <ITEMGROUP_ID>safari-elixir</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1728,7 +2007,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>fragrance-world-neroli-riviera</ITEMGROUP_ID>
+      <ITEMGROUP_ID>neroli-riviera</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1759,7 +2038,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>fragrance-world-b-satin-oud</ITEMGROUP_ID>
+      <ITEMGROUP_ID>b-satin-oud</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1790,7 +2069,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>fragrance-world-aqua-pura</ITEMGROUP_ID>
+      <ITEMGROUP_ID>aqua-pura</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
@@ -1821,7 +2100,7 @@
           <DELIVERY_PRICE>5</DELIVERY_PRICE>
         </DELIVERY>
       
-      <ITEMGROUP_ID>afnan-9-am-dive</ITEMGROUP_ID>
+      <ITEMGROUP_ID>9-am-dive</ITEMGROUP_ID>
       
         <PARAM>
           <PARAM_NAME>Veľkosť</PARAM_NAME>
