@@ -2,6 +2,37 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
+      <ITEM_ID>liquid-brun-100ml</ITEM_ID>
+      <PRODUCTNAME>French Avenue Liquid Brun 100ml</PRODUCTNAME>
+      <DESCRIPTION>Očakávame 28.1. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
+      <MANUFACTURER>French Avenue</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/french-avenue-liquid-brun-100ml</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/pixelcut-export_1.png?v=1731949751</IMGURL>
+      <PRICE_VAT>48.50</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>liquid-brun-100ml</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>100 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
       <ITEM_ID>khamrah-qahwa</ITEM_ID>
       <PRODUCTNAME>Lattafa Khamrah Qahwa 1 ml</PRODUCTNAME>
       <DESCRIPTION>Očakávame 23-27.1. Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, škorica, kardamóm Srdce - pralinka, kandizované ovocie, biele kvety Základ - káva, tonka fazuľa, pižmo, benzoin, vanilka</DESCRIPTION>
@@ -35,7 +66,7 @@
     <SHOPITEM>
       <ITEM_ID>reserved-black-cedar</ITEM_ID>
       <PRODUCTNAME>Zimaya Reserved Black Cedar 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Očakávame 21-23.1. Vzorka/odstrek parfému. Vôna inšpirovaná Nishane Papilefiko . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrusy, koriander, kardamóm Srdce - levanduľa, artemisia, jasmín Základ - dubový mach, jedľa, živica</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Nishane Papilefiko . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - citrusy, koriander, kardamóm Srdce - levanduľa, artemisia, jasmín Základ - dubový mach, jedľa, živica</DESCRIPTION>
       <MANUFACTURER>Zimaya</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -66,7 +97,7 @@
     <SHOPITEM>
       <ITEM_ID>mashrabya</ITEM_ID>
       <PRODUCTNAME>Lattafa Mashrabya 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Očakávame 21-23.1. Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Smoking Hot . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - jablková shisha, ružové korenie Srdce - škorica, ďatle, tabak Základ - vanilka, karamel, pačuli</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Smoking Hot . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - jablková shisha, ružové korenie Srdce - škorica, ďatle, tabak Základ - vanilka, karamel, pačuli</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -135,7 +166,7 @@
       </CATEGORYTEXT>
       <URL>https://vzorkyparfemov.eu/products/french-avenue-amber-saffron</URL>
       <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/world-fragrance-amber-saffron-extrait-1-1.png?v=1736937438</IMGURL>
-      <PRICE_VAT>3.00</PRICE_VAT>
+      <PRICE_VAT>2.80</PRICE_VAT>
       
         <DELIVERY>
           <DELIVERY_ID>PACKETA</DELIVERY_ID>
