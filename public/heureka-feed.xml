@@ -2,8 +2,132 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
+      <ITEM_ID>itqan-gold</ITEM_ID>
+      <PRODUCTNAME>Zimaya Itqan Gold 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Crivelli Oud Maracuja. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - marakuja, ruža Srdce - oud (agárové drevo) Základ - benzoin, pačuli</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-itqan-gold</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/zimayaitqangold2.png?v=1737905987</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>itqan-gold</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>itqan-noir</ITEM_ID>
+      <PRODUCTNAME>Zimaya Itqan Noir 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Yves Saint Laurent MYSLF . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot Srdce - pomarančový kvet Základ - ambroxan, pačuli</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-itqan-noir</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/zimayaitqannoir1.png?v=1737905871</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>itqan-noir</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>sharaf-blend</ITEM_ID>
+      <PRODUCTNAME>Zimaya Sharaf Blend 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôna inšpirovaná Kilian Angels&apos; Share . Koncentrácia Extrait de Parfum. Popis vône: Hlava - ďatle, šafrán, muškátový orech Srdce - pralinka, vanilka, tuberose Základ - tonka fazuľa, jantárové drevo, benzoin, pižmo</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-sharaf-blend</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/Screenshot-20241113_205831_Instagram_1.png?v=1737904852</IMGURL>
+      <PRICE_VAT>1.80</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>sharaf-blend</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>tiramisu-coco</ITEM_ID>
+      <PRODUCTNAME>Zimaya Tiramisu Coco 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Mancera Amore Caffè . Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - káva, amaretto Srdce - vanilka, piškóty, zmrzlina Základ - jantár, vanilka, hnedý cukor</DESCRIPTION>
+      <MANUFACTURER>Zimaya</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/zimaya-tiramisu-coco</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/tiramisu-coco-perfume-bottle-surrounded-with-coffee-and-brown-sugar-against-white-background.png?v=1737904420</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>tiramisu-coco</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
       <ITEM_ID>liquid-brun-100ml</ITEM_ID>
-      <PRODUCTNAME>French Avenue Liquid Brun 100ml</PRODUCTNAME>
+      <PRODUCTNAME>French Avenue Liquid Brun 100ml Default Title</PRODUCTNAME>
       <DESCRIPTION>Očakávame 28.1. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
@@ -26,8 +150,8 @@
       <ITEMGROUP_ID>liquid-brun-100ml</ITEMGROUP_ID>
       
         <PARAM>
-          <PARAM_NAME>Veľkosť</PARAM_NAME>
-          <VAL>100 ml</VAL>
+          <PARAM_NAME>Title</PARAM_NAME>
+          <VAL>Default Title</VAL>
         </PARAM>
       
     </SHOPITEM>
