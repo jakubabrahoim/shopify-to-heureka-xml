@@ -51,7 +51,8 @@ export function convertToHeurekaFormat(
 
         const heurekaProduct: HeurekaProduct = {
           ITEM_ID: variantId,
-          PRODUCTNAME: `${product.Title} ${product['Option1 Value']}`.trim(),
+          // This adds the name of first variant at the end since 99% of products have variants
+          PRODUCTNAME: `${product.Title} ${product['Option1 Value']}`.trim().replace(' Default Title', ''),
           DESCRIPTION: stripHtml(product['Body (HTML)']),
           MANUFACTURER: product.Vendor || 'Unknown',
           // CATEGORYTEXT: {
