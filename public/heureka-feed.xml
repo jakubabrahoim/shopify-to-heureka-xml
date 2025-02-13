@@ -2,6 +2,99 @@
 <SHOP xmlns="http://www.heureka.sk/ns/offer/1.0">
   
     <SHOPITEM>
+      <ITEM_ID>9-pm-rebel</ITEM_ID>
+      <PRODUCTNAME>Afnan 9 PM Rebel 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - granny smith jablko, mandarinka, ananás Srdce - vanilka, cédrové drevo, dubový mach Základ - ambergris, karamel, suché drevo, pižmo</DESCRIPTION>
+      <MANUFACTURER>Afnan</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/afnan-9-pm-rebel</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/IMG_3299.png?v=1738585286</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>9-pm-rebel</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>yara-candy</ITEM_ID>
+      <PRODUCTNAME>Lattafa Yara Candy 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - ríbezľa, zelená mandarinka Srdce - jahodové cukríky, gardénia Základ - vanilka, jantár, pižmo, santálové drevo</DESCRIPTION>
+      <MANUFACTURER>Lattafa</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/lattafa-yara-candy</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/IMG-3142.png?v=1738584794</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>yara-candy</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
+      <ITEM_ID>supremacy-collectors-edition</ITEM_ID>
+      <PRODUCTNAME>Afnan Supremacy Collector&apos;s Edition 1 ml</PRODUCTNAME>
+      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Creed Aventus Absolu. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - ananás, bergamot, jablko, biele kvety Srdce - pomarančový kvet, jantár, breza Základ - ambergris, dubový mach, pižmo</DESCRIPTION>
+      <MANUFACTURER>Afnan</MANUFACTURER>
+      <CATEGORYTEXT>
+        Heureka.sk | Kozmetika a parfumy | Parfumy
+      </CATEGORYTEXT>
+      <URL>https://vzorkyparfemov.eu/products/afnan-supremacy-collectors-edition</URL>
+      <IMGURL>https://cdn.shopify.com/s/files/1/0909/2595/7461/files/IMG_3302.png?v=1738584199</IMGURL>
+      <PRICE_VAT>2.00</PRICE_VAT>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA</DELIVERY_ID>
+          <DELIVERY_PRICE>3.5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+        <DELIVERY>
+          <DELIVERY_ID>PACKETA_DOMOV</DELIVERY_ID>
+          <DELIVERY_PRICE>5</DELIVERY_PRICE>
+        </DELIVERY>
+      
+      <ITEMGROUP_ID>supremacy-collectors-edition</ITEMGROUP_ID>
+      
+        <PARAM>
+          <PARAM_NAME>Veľkosť</PARAM_NAME>
+          <VAL>1 ml</VAL>
+        </PARAM>
+      
+    </SHOPITEM>
+  
+    <SHOPITEM>
       <ITEM_ID>itqan-gold</ITEM_ID>
       <PRODUCTNAME>Zimaya Itqan Gold 1 ml</PRODUCTNAME>
       <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Crivelli Oud Maracuja. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - marakuja, ruža Srdce - oud (agárové drevo) Základ - benzoin, pačuli</DESCRIPTION>
@@ -128,7 +221,7 @@
     <SHOPITEM>
       <ITEM_ID>liquid-brun-100ml</ITEM_ID>
       <PRODUCTNAME>French Avenue Liquid Brun 100ml Default Title</PRODUCTNAME>
-      <DESCRIPTION>Očakávame 28.1. Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
+      <DESCRIPTION>Vôňa inšpirovaná Parfums De Marly Althair. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - škorica, kardamóm, bergamot, pomarančový kvet Srdce - bourbon vanilka, elemi Základ - pižmo, pralinka, ambroxan, guaiakové drevo</DESCRIPTION>
       <MANUFACTURER>French Avenue</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -159,7 +252,7 @@
     <SHOPITEM>
       <ITEM_ID>khamrah-qahwa</ITEM_ID>
       <PRODUCTNAME>Lattafa Khamrah Qahwa 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Očakávame 23-27.1. Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, škorica, kardamóm Srdce - pralinka, kandizované ovocie, biele kvety Základ - káva, tonka fazuľa, pižmo, benzoin, vanilka</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - zázvor, škorica, kardamóm Srdce - pralinka, kandizované ovocie, biele kvety Základ - káva, tonka fazuľa, pižmo, benzoin, vanilka</DESCRIPTION>
       <MANUFACTURER>Lattafa</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
@@ -1213,7 +1306,7 @@
     <SHOPITEM>
       <ITEM_ID>25-experience</ITEM_ID>
       <PRODUCTNAME>Khadlaj 25 Experience 1 ml</PRODUCTNAME>
-      <DESCRIPTION>Vzorka/odstrek parfému. Vôňa inšpirovaná Maison Francis Kurkdjian Baccarat Rouge 540. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, eukalyptus, kardamóm Srdce - ruža, figový strom, cédrové drevo Základ - cashmeran, kadidlo, santálové drevo</DESCRIPTION>
+      <DESCRIPTION>Vzorka/odstrek parfému. Koncentrácia Eau de Parfum (EdP). Popis vône: Hlava - bergamot, eukalyptus, kardamóm Srdce - ruža, figový strom, cédrové drevo Základ - cashmeran, kadidlo, santálové drevo</DESCRIPTION>
       <MANUFACTURER>Khadlaj</MANUFACTURER>
       <CATEGORYTEXT>
         Heureka.sk | Kozmetika a parfumy | Parfumy
